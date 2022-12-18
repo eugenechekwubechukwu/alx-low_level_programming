@@ -46,4 +46,4 @@
 		ui2_alf2 = alf2;
 	}
 	printf("\n");
-
+	return (0);
